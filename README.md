@@ -51,9 +51,9 @@ For usage information, please click on link to the video below.
 
 https://github.com/KhaiTPhan/Employee-Tracker/blob/main/Employee-Tracker%20System.mp4
 
-Output of a sample README file below:
-![README File Generator](./images/readme.PNG)
+Output of a sample employee-tracker system below:
 
+![employee-tracker](https://user-images.githubusercontent.com/74043730/109792424-9d737f80-7c67-11eb-97f3-428bb2feaefc.PNG)
 
 Below is the link to the project URL.
 
