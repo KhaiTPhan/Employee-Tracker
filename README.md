@@ -57,7 +57,7 @@ Output of a sample employee-tracker system below:
 
 Below is the link to the project URL.
 
-Project URL: KhaiT{Phan/Employee-Tracker
+Project URL: https://khaitphan.github.io/Employee-Tracker/.
 
 ## Test instructions
 
