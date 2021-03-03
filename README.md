@@ -30,11 +30,26 @@ This is a command-line application that will allow the user to: - add department
 
 ## Installation
 
-Ensure Node.JS is installed, inquirer npm package is installed
+* Install Node.JS and the inquirer package
+* Install MySQL
+* Install mysql npm package 
+* Download the index.js file
+
+To invoke the app, check that you are in the correct folder and type the following command in your terminal:
+
+```bash
+node index.js
+```
 
 ## Usage
 
-![Employee-Tracker System](/images/employee-tracker.PNG)
+For usage information, please click on link to the video below.
+
+https://github.com/KhaiTPhan/ReadMe-Generator/blob/main/images/README%20File%20Generator.mp4
+
+Output of a sample README file below:
+![README File Generator](./images/readme.PNG)
+
 
 Below is the link to the project URL.
 
