@@ -49,7 +49,7 @@ node index.js
 
 For usage information, please click on link to the video below.
 
-https://github.com/KhaiTPhan/ReadMe-Generator/blob/main/images/README%20File%20Generator.mp4
+https://github.com/KhaiTPhan/Employee-Tracker/blob/main/Employee-Tracker%20System.mp4
 
 Output of a sample README file below:
 ![README File Generator](./images/readme.PNG)
