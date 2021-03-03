@@ -14,7 +14,11 @@ This is a command-line application that will allow the user to: - add department
 
 #### Technologies used
 
-* JavaScript,Node.JS,Inquirer
+* JavaScript
+* Node.JS
+* Inquirer npm package
+* MySQL and mysql npm package
+* console.table npm package
 
 ## Table of contents
 
